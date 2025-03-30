@@ -1,0 +1,41 @@
+{
+    "materials": {
+      "organic cotton": { "material_impact": 30, "skin_safety": 20, "toxicity": 20, "durability": 15 },
+      "cotton": { "material_impact": 20, "skin_safety": 18, "toxicity": 15, "durability": 12 },
+      "recycled cotton": { "material_impact": 25, "skin_safety": 18, "toxicity": 18, "durability": 13 },
+      "polyester": { "material_impact": 10, "skin_safety": 8, "toxicity": 6, "durability": 16 },
+      "recycled polyester": { "material_impact": 15, "skin_safety": 10, "toxicity": 10, "durability": 16 },
+      "viscose": { "material_impact": 12, "skin_safety": 12, "toxicity": 10, "durability": 10 },
+      "rayon": { "material_impact": 10, "skin_safety": 10, "toxicity": 8, "durability": 10 },
+      "bamboo viscose": { "material_impact": 16, "skin_safety": 15, "toxicity": 14, "durability": 10 },
+      "wool": { "material_impact": 18, "skin_safety": 14, "toxicity": 10, "durability": 18 },
+      "nylon": { "material_impact": 8, "skin_safety": 6, "toxicity": 6, "durability": 15 },
+      "acrylic": { "material_impact": 6, "skin_safety": 4, "toxicity": 5, "durability": 12 }
+    },
+    "care_instructions": {
+      "machine wash cold": { "toxicity": 20, "durability": 15 },
+      "machine wash warm": { "toxicity": 18, "durability": 14 },
+      "hand wash": { "toxicity": 18, "durability": 13 },
+      "dry clean only": { "toxicity": 5, "durability": 10 },
+      "do not bleach": { "toxicity": 15, "durability": 13 }
+    },
+  "certifications": {
+  "OEKO-TEX": { "skin_safety": 20, "toxicity": 20 },
+  "GOTS": { "material_impact": 30, "transparency": 20 },
+  "Fair Trade": { "labor_ethics": 20 },
+  "Cradle to Cradle": { "material_impact": 25, "toxicity": 20 },
+  "Bluesign": { "toxicity": 18, "transparency": 18 },
+  "B Corp": { "labor_ethics": 15, "transparency": 15 },
+  "H&M Sustainability Commitment": { "labor_ethics": 10, "transparency": 15 },
+  "LENZING ECOVERO": { "material_impact": 20, "toxicity": 15 },
+  "OCS": {
+  "material_impact": 28,"transparency": 15},
+"Textile Exchange": {"transparency": 20,"labor_ethics": 10},
+"RCS": {
+  "material_impact": 22,
+  "toxicity": 12
+}
+}
+  }
+  
+  
